@@ -1,0 +1,15 @@
+{
+  "name": "3s G Com Bakery",
+  "short_name": "3s G Com",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6efe6",
+  "theme_color": "#6d2d1b",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
